@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Programa basico de entrada de dados
+
 int main(){
 
     int idade, matricula;
