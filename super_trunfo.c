@@ -60,7 +60,6 @@ int main(){
     scanf("%d", &num_pontos_turisticos2);
     printf("\n\n");
     
-
-
+    return 0;
 
 }
