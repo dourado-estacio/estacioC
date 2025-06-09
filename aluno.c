@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-//Programa basico de entrada de dados
+//Programa basico de entrada de dados - pesquisar como se altera arquivo base
+// testando
 
 int main(){
 
